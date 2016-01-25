@@ -7,3 +7,4 @@ A detailed walk thru on how to setup the project can be found at [here](https://
 #Requirements
 Written in Swift and requires Yosemite or later.
 
+![alt tag](https://github.com/AdamEsgie/slack-away-message/blob/master/Images/Screen%20Shot%202016-01-24%20at%201.33.01%20PM.png)
